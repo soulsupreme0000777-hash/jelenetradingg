@@ -1,0 +1,7 @@
+{
+  "name": "Jelene Trading DTR",
+  "description": "A modern, automated Attendance Monitoring System designed for Jelene Trading. Features intelligent QR code scanning, split-shift management, and digital DTR generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
